@@ -1,5 +1,2 @@
-![quarter_car_ASS_model_big](https://github.com/Mekatronik306/PID_ASS/assets/59138680/914d561f-498d-4cac-a683-1a916ee51564)
-![20231222_235221](https://github.com/Mekatronik306/PID_ASS/assets/59138680/a817970e-bc0a-4d60-ae21-ab2fd252bb06)
-![20231222_235232](https://github.com/Mekatronik306/PID_ASS/assets/59138680/0cc4f511-9656-4847-b70a-f45c1a8088d4)
-![20231222_235250](https://github.com/Mekatronik306/PID_ASS/assets/59138680/0004fd72-702f-4b37-baf3-5273f9479738)
-![20231222_235302](https://github.com/Mekatronik306/PID_ASS/assets/59138680/3e1017d9-698d-4a9d-8ea1-003027e218cd)
+
+[main.pdf](https://github.com/Mekatronik306/PID_ASS/files/13759119/main.pdf)
