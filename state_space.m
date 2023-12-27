@@ -1,8 +1,10 @@
 % Author: Pontus Svensson
 function [dz, acceleration] = state_space(z, u)
 %#codegen
+
 dz = zeros(4, 1);
 acceleration = 0;    
+
 k_s = 18600; % N/m
 k_t = 196000; % N/m
 c_s = 1000; % Ns/m
